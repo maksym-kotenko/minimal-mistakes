@@ -16,3 +16,8 @@ I am a dedicated Senior Software Engineer and Team Lead with over 8 years of exp
 - **Continuous Improvement:** Committed to professional development, obtaining multiple Microsoft certifications to stay current with industry trends.
 
 [Download My Resume](#download-section)
+## LinkedIn Profile
+
+<iframe src="/assets/certifications/LinkedIn_Page.pdf" width="100%" height="600px">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/certifications/LinkedIn_Page.pdf">Download PDF</a>.
+</iframe>
